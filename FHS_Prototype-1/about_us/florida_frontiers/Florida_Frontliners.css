@@ -1,0 +1,653 @@
+.mediaViewInfo {
+	--web-view-name: Florida Frontliners;
+	--web-view-id: Florida_Frontliners;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Florida_Frontliners;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Florida_Frontliners_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3227px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Florida Frontliners;
+	--web-view-id: Florida_Frontliners;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.florida_frontiers_117_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.florida_frontiers_319_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2147px;
+	overflow: visible;
+}
+.florida_frontiers_2_Fixed_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1074px;
+	overflow: visible;
+}
+.Rectangle_71_Class {
+	fill: rgba(40,94,166,1);
+}
+.Rectangle_71 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 3241px;
+	left: -1px;
+	top: 0px;
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 178px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button__Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 255px;
+	height: 65px;
+	left: 468px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bc_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bc {
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 67px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 237px;
+	height: 65px;
+	left: 723px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_bf_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_bf {
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 78.987px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 213px;
+	height: 65px;
+	left: 960px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bi_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bi {
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 69px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 220px;
+	height: 65px;
+	left: 1173px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bl_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bl {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 33.479px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 211px;
+	height: 65px;
+	left: 1392px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_bo_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bo {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 56.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 288px;
+	height: 65px;
+	left: 1602px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_br_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_br {
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 88.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 25px;
+	top: 15px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_61_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(48,92,151,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 990px;
+	height: 96px;
+	left: 464px;
+	top: 166px;
+}
+.Florida_Frontiers_Class {
+	left: 819px;
+	top: 191px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.florida_frontiter_maps_Class {
+	position: absolute;
+	width: 1664px;
+	height: 643px;
+	left: 128px;
+	top: 293px;
+	overflow: visible;
+}
+.Ellipse_16_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 891px;
+	top: 993px;
+}
+.Ellipse_17_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 933px;
+	top: 993px;
+}
+.Ellipse_18_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 975px;
+	top: 993px;
+}
+.Frontiers_Newspaper_Class {
+	position: absolute;
+	width: 745px;
+	height: 960px;
+	left: 60px;
+	top: 1145px;
+	overflow: visible;
+}
+.Rectangle_63_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 745px;
+	height: 181px;
+	left: 0px;
+	top: 0px;
+}
+.newspaper_Class {
+	position: absolute;
+	width: 745px;
+	height: 779px;
+	left: 0px;
+	top: 181px;
+	overflow: visible;
+}
+.Newspaper_b_Class {
+	left: 260px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Frontiers_TV_Class {
+	position: absolute;
+	width: 745px;
+	height: 960px;
+	left: 1087px;
+	top: 1145px;
+	overflow: visible;
+}
+.Rectangle_65_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 745px;
+	height: 181px;
+	left: 0px;
+	top: 0px;
+}
+.tv_Class {
+	position: absolute;
+	width: 745px;
+	height: 779px;
+	left: 0px;
+	top: 181px;
+	overflow: visible;
+}
+.TV_b_Class {
+	left: 348px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Frontiers_Radio_Class {
+	position: absolute;
+	width: 745px;
+	height: 960px;
+	left: 1087px;
+	top: 2207px;
+	overflow: visible;
+}
+.Rectangle_67_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 745px;
+	height: 181px;
+	left: 0px;
+	top: 0px;
+}
+.radio_Class {
+	position: absolute;
+	width: 745px;
+	height: 779px;
+	left: 0px;
+	top: 181px;
+	overflow: visible;
+}
+.Radio_cd_Class {
+	left: 317px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Frontiers_Podcast_Class {
+	position: absolute;
+	width: 745px;
+	height: 960px;
+	left: 60px;
+	top: 2207px;
+	overflow: visible;
+}
+.Rectangle_69_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 745px;
+	height: 181px;
+	left: 0px;
+	top: 0px;
+}
+.podcast_Class {
+	position: absolute;
+	width: 745px;
+	height: 779px;
+	left: 0px;
+	top: 181px;
+	overflow: visible;
+}
+.Podcasts_Class {
+	left: 284px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}

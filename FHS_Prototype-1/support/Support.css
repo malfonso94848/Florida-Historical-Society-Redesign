@@ -1,0 +1,1006 @@
+.mediaViewInfo {
+	--web-view-name: Support;
+	--web-view-id: Support;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Support;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Support_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3227px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Support;
+	--web-view-id: Support;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.support_127_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.support_228_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1078px;
+	overflow: visible;
+}
+.support_329_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2147px;
+	overflow: visible;
+}
+.Rectangle_92_Class {
+	fill: rgba(40,94,166,1);
+}
+.Rectangle_92 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 3241px;
+	left: -1px;
+	top: 0px;
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 178px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button__Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 252px;
+	height: 65px;
+	left: 468px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bc_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bc {
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 65.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 240px;
+	height: 65px;
+	left: 720px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_bf_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_bf {
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 80.497px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 211px;
+	height: 65px;
+	left: 960px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bi_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bi {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 68px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 224px;
+	height: 65px;
+	left: 1171px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bl_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bl {
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 35.507px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 209px;
+	height: 65px;
+	left: 1395px;
+	top: 38px;
+	overflow: visible;
+}
+.Support_Button_bo_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bo {
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_bp_Class {
+	left: 55.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 289px;
+	height: 65px;
+	left: 1604px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_br_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_br {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 89px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 25px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Extra_Membership_Button_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 45px;
+	top: 2417px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Rectangle_195_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_195 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_by_Class {
+	left: 229px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+.Extra_Membership_Button_bz_Class {
+	fill: rgba(255,255,255,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Extra_Membership_Button_bz {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_77_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 69px;
+	left: 695px;
+	top: 152px;
+}
+.Support_b_Class {
+	left: 863px;
+	top: 154px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_78_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 1866px;
+	height: 175px;
+	left: 27px;
+	top: 241px;
+}
+.Thank_you_for_your_continued_s_Class {
+	left: 307px;
+	top: 260px;
+	position: absolute;
+	overflow: visible;
+	width: 1307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Please_scroll_down_to_see_what_Class {
+	left: 374px;
+	top: 318px;
+	position: absolute;
+	overflow: visible;
+	width: 1173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.support_Class {
+	position: absolute;
+	width: 1866px;
+	height: 627px;
+	left: 27px;
+	top: 436px;
+	overflow: visible;
+}
+.Rectangle_80_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_80 {
+	position: absolute;
+	overflow: visible;
+	width: 1866px;
+	height: 370px;
+	left: 27px;
+	top: 1215px;
+}
+.Rectangle_81_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_81 {
+	position: absolute;
+	overflow: visible;
+	width: 1866px;
+	height: 62px;
+	left: 27px;
+	top: 1153px;
+}
+.Rectangle_83_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_83 {
+	position: absolute;
+	overflow: visible;
+	width: 1866px;
+	height: 371px;
+	left: 27px;
+	top: 1698px;
+}
+.Rectangle_82_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_82 {
+	position: absolute;
+	overflow: visible;
+	width: 1866px;
+	height: 62px;
+	left: 27px;
+	top: 1636px;
+}
+.Florida_Historical_Society_Spe_Class {
+	left: 451px;
+	top: 1633px;
+	position: absolute;
+	overflow: visible;
+	width: 1019px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Florida_Historical_Society_Med_Class {
+	left: 389px;
+	top: 1152px;
+	position: absolute;
+	overflow: visible;
+	width: 1167px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Florida_Frontiers_The_Weekly_R_Class {
+	left: 54px;
+	top: 1229px;
+	position: absolute;
+	overflow: visible;
+	width: 1690px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Florida_Frontiers_the_Televisi_Class {
+	left: 54px;
+	top: 1328px;
+	position: absolute;
+	overflow: visible;
+	width: 1728px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Florida_Historical_Society_Pre_Class {
+	left: 54px;
+	top: 1426px;
+	position: absolute;
+	overflow: visible;
+	width: 1535px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Florida_Historical_Quarterly_o_Class {
+	left: 54px;
+	top: 1491px;
+	position: absolute;
+	overflow: visible;
+	width: 1706px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.The_Friends_of_the_Florida_His_Class {
+	left: 45px;
+	top: 1713px;
+	position: absolute;
+	overflow: visible;
+	width: 1726px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.FHS_works_with_several_institu_Class {
+	left: 45px;
+	top: 1812px;
+	position: absolute;
+	overflow: visible;
+	width: 1757px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Special_events_presentations_a_Class {
+	left: 45px;
+	top: 1944px;
+	position: absolute;
+	overflow: visible;
+	width: 1780px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_84_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 1066px;
+	height: 116px;
+	left: 405px;
+	top: 2214px;
+}
+.Who_to_Donate_Class {
+	left: 746px;
+	top: 2235px;
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(0,0,0,1);
+}
+.n_00_at_500_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 45px;
+	top: 2624px;
+	overflow: visible;
+}
+.Rectangle_86_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.n_00_at_500_cn_Class {
+	left: 264px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+.Ebay_Charity_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 45px;
+	top: 2831px;
+	overflow: visible;
+}
+.Rectangle_87_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Ebay_Charity_cq_Class {
+	left: 229px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+.Sponsor_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 45px;
+	top: 3038px;
+	overflow: visible;
+}
+.Rectangle_88_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_88 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Sponsor_ct_Class {
+	left: 290px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+.Support_FF_TV_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 1073px;
+	top: 2417px;
+	overflow: visible;
+}
+.Rectangle_89_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_89 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Support_FF_TV_cw_Class {
+	left: 215px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 369px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+.Volunteer_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 1073px;
+	top: 2624px;
+	overflow: visible;
+}
+.Rectangle_90_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_90 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Volunteer_cz_Class {
+	left: 265px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+.Online_Donation_Class {
+	position: absolute;
+	width: 797px;
+	height: 123px;
+	left: 1073px;
+	top: 2831px;
+	overflow: visible;
+}
+.Rectangle_91_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(47,93,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_91 {
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Online_Donation_c_Class {
+	left: 177px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 445px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}

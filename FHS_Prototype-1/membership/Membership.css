@@ -1,0 +1,952 @@
+.mediaViewInfo {
+	--web-view-name: Membership;
+	--web-view-id: Membership;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Membership;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Membership_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2152px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Membership;
+	--web-view-id: Membership;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.membership_130_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.membership_231_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1078px;
+	overflow: visible;
+}
+.background_Class {
+	fill: rgba(40,94,166,1);
+}
+.background {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 2158px;
+	left: -1px;
+	top: 0px;
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 180px;
+	top: 52px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button__Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 253px;
+	height: 65px;
+	left: 470px;
+	top: 52px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bb_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bb {
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 66px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 238px;
+	height: 65px;
+	left: 722px;
+	top: 52px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_be_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_be {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 79.49px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 213px;
+	height: 65px;
+	left: 960px;
+	top: 52px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bh_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bh {
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 69px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 221px;
+	height: 65px;
+	left: 1173px;
+	top: 52px;
+	overflow: visible;
+}
+.Membership_Button_bk_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bk {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_bl_Class {
+	left: 33.985px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 208px;
+	height: 65px;
+	left: 1394px;
+	top: 52px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_bn_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bn {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 55px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 291px;
+	height: 65px;
+	left: 1602px;
+	top: 52px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_bq_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_bq {
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 90px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 25px;
+	top: 24px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_187_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_187 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 69px;
+	left: 696px;
+	top: 152px;
+}
+.Membership_bw_Class {
+	left: 809px;
+	top: 152px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_94_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_94 {
+	position: absolute;
+	overflow: visible;
+	width: 1834px;
+	height: 159px;
+	left: 43px;
+	top: 236px;
+}
+.The_Florida_Historical_Society_Class {
+	left: 68px;
+	top: 254px;
+	position: absolute;
+	overflow: visible;
+	width: 1785px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_106_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_106 {
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	height: 79px;
+	left: 43px;
+	top: 486px;
+}
+.Rectangle_108_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_108 {
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	height: 79px;
+	left: 1036px;
+	top: 486px;
+}
+.Rectangle_107_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_107 {
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	height: 489px;
+	left: 43px;
+	top: 565px;
+}
+.Rectangle_109_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_109 {
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	height: 489px;
+	left: 1036px;
+	top: 565px;
+}
+.Rectangle_125_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_125 {
+	position: absolute;
+	overflow: visible;
+	width: 412px;
+	height: 470px;
+	left: 42px;
+	top: 1114px;
+}
+.Membership_Benefits_Include_Class {
+	left: 151px;
+	top: 497px;
+	position: absolute;
+	overflow: visible;
+	width: 627px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(0,0,0,1);
+}
+.For_Membership_Information_Class {
+	left: 1147px;
+	top: 497px;
+	position: absolute;
+	overflow: visible;
+	width: 621px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(0,0,0,1);
+}
+.All_members_receive_our_newsle_Class {
+	left: 90px;
+	top: 583px;
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.All_FHS_Membership_run_for_one_Class {
+	left: 147px;
+	top: 852px;
+	position: absolute;
+	overflow: visible;
+	width: 635px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Memberships_are_non_refundable_Class {
+	left: 193px;
+	top: 986px;
+	position: absolute;
+	overflow: visible;
+	width: 543px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Call_321_-_690_-_1971_ext_217__Class {
+	left: 1216px;
+	top: 709px;
+	position: absolute;
+	overflow: visible;
+	width: 483px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -10.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Sponsor_Membership_Class {
+	position: absolute;
+	width: 454px;
+	height: 477px;
+	left: 1422px;
+	top: 1618px;
+	overflow: visible;
+}
+.Rectangle_122_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_122 {
+	position: absolute;
+	overflow: visible;
+	width: 454px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.sponsor_Class {
+	position: absolute;
+	width: 454px;
+	height: 357px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Sponsor_cd_Class {
+	left: 139px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Supporter_Membership_Class {
+	position: absolute;
+	width: 439px;
+	height: 470px;
+	left: 966px;
+	top: 1634px;
+	overflow: visible;
+}
+.Rectangle_126_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_126 {
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.supporter_Class {
+	position: absolute;
+	width: 439px;
+	height: 350px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Supporter_ch_Class {
+	left: 102px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Family_Membership_Class {
+	position: absolute;
+	width: 440px;
+	height: 470px;
+	left: 488px;
+	top: 1625px;
+	overflow: visible;
+}
+.Rectangle_128_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_128 {
+	position: absolute;
+	overflow: visible;
+	width: 440px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.family_Class {
+	position: absolute;
+	width: 440px;
+	height: 350px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Family_cl_Class {
+	left: 137px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Institutional_Membership_Class {
+	position: absolute;
+	width: 408px;
+	height: 477px;
+	left: 42px;
+	top: 1618px;
+	overflow: visible;
+}
+.Rectangle_130_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_130 {
+	position: absolute;
+	overflow: visible;
+	width: 408px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.institiational_Class {
+	position: absolute;
+	width: 408px;
+	height: 357px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Institution_Class {
+	left: 78px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_308_Class {
+	fill: rgba(0,0,2,1);
+}
+.Rectangle_308 {
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	height: 29px;
+	left: 1px;
+	top: 448px;
+}
+.Memberships_Class {
+	left: 91px;
+	top: 1317px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Friend_Membership_Class {
+	position: absolute;
+	width: 440px;
+	height: 477px;
+	left: 488px;
+	top: 1114px;
+	overflow: visible;
+}
+.Rectangle_132_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_132 {
+	position: absolute;
+	overflow: visible;
+	width: 440px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.friend_Class {
+	position: absolute;
+	width: 440px;
+	height: 357px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Friend_cv_Class {
+	left: 140px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Basic_Membership_Class {
+	position: absolute;
+	width: 439px;
+	height: 477px;
+	left: 960px;
+	top: 1114px;
+	overflow: visible;
+}
+.Rectangle_134_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_134 {
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.basic_Class {
+	position: absolute;
+	width: 439px;
+	height: 357px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Basic_cz_Class {
+	left: 158px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Standard_Membership_Class {
+	position: absolute;
+	width: 455px;
+	height: 477px;
+	left: 1422px;
+	top: 1114px;
+	overflow: visible;
+}
+.Rectangle_136_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_136 {
+	position: absolute;
+	overflow: visible;
+	width: 455px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.standard_Class {
+	position: absolute;
+	width: 455px;
+	height: 357px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Standard_c_Class {
+	left: 126px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	line-height: 55px;
+	margin-top: -3.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Email_membershipmyfloridahisto_Class {
+	left: 1127px;
+	top: 794px;
+	position: absolute;
+	overflow: visible;
+	width: 661px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}

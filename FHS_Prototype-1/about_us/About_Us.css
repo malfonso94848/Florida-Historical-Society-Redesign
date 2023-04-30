@@ -1,0 +1,908 @@
+.mediaViewInfo {
+	--web-view-name: About Us;
+	--web-view-id: About_Us;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: About_Us;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.About_Us_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2161px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: About Us;
+	--web-view-id: About_Us;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.about_us_13_Class {
+	position: absolute;
+	width: 1946px;
+	height: 1148px;
+	left: -26px;
+	top: -67px;
+	overflow: visible;
+}
+.about_us_2_cropped_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1081px;
+	overflow: visible;
+}
+.Rectangle_38_Class {
+	fill: rgba(40,94,166,1);
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 2159px;
+	left: -1px;
+	top: 0px;
+}
+.Rectangle_26_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1872px;
+	height: 324px;
+	left: 19px;
+	top: 183px;
+}
+.Rectangle_27_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 1872px;
+	height: 116px;
+	left: 19px;
+	top: 522px;
+}
+.Rectangle_28_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 1872px;
+	height: 389px;
+	left: 19px;
+	top: 663px;
+}
+.Rectangle_29_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 532px;
+	height: 105px;
+	left: 693px;
+	top: 1105px;
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 158px;
+	top: 35px;
+	overflow: visible;
+}
+.About_Us_Button_bc_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_bc {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_bd_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 259px;
+	height: 65px;
+	left: 448px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bf_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bf {
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 69px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 240px;
+	height: 65px;
+	left: 707px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_bi_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_bi {
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 80.497px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 212px;
+	height: 65px;
+	left: 944px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bl_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bl {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 68.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 222px;
+	height: 65px;
+	left: 1156px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bo_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bo {
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 34.493px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 212px;
+	height: 65px;
+	left: 1378px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_br_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_br {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 57px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 291px;
+	height: 65px;
+	left: 1589px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_bu_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_bu {
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 90px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Rossetter_Button_Class {
+	position: absolute;
+	width: 861px;
+	height: 417px;
+	left: 45px;
+	top: 1248px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Rossetter_House_Museum.html;
+	cursor: pointer;
+}
+.Rectangle_30_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_31_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+}
+.Rossetter_House_Museum_Class {
+	left: 176px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rossetter_Image_Class {
+	position: absolute;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+	overflow: visible;
+}
+.Library_of_Florida_History_Class {
+	position: absolute;
+	width: 861px;
+	height: 417px;
+	left: 45px;
+	top: 1696px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Library_of_Florida_History.html;
+	cursor: pointer;
+}
+.Rectangle_34_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_35_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+}
+.Library_of_Florida_History_b_Class {
+	left: 181px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Library_of_Florida_History_Ima_Class {
+	position: absolute;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Library_of_Florida_History.html;
+	cursor: pointer;
+}
+.Florida_Frontiers_Button_Class {
+	position: absolute;
+	width: 861px;
+	height: 417px;
+	left: 1011px;
+	top: 1248px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Florida_Frontliners.html;
+	cursor: pointer;
+}
+.Rectangle_32_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_33_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+}
+.Florida_Frontiers_Class {
+	left: 265px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Florida_Frontiers_Image_Class {
+	position: absolute;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Florida_Frontliners.html;
+	cursor: pointer;
+}
+.FHS_Archeological_Button_Class {
+	position: absolute;
+	width: 861px;
+	height: 417px;
+	left: 1011px;
+	top: 1696px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: FFS_Archeological_Institute_.html;
+	cursor: pointer;
+}
+.Rectangle_36_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+}
+.FFS_Archeological_Institute__Class {
+	left: 161px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Archeological_Image_Class {
+	position: absolute;
+	width: 861px;
+	height: 345px;
+	left: 0px;
+	top: 72px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: FFS_Archeological_Institute_.html;
+	cursor: pointer;
+}
+.Original_Website_Link_Class {
+	position: absolute;
+	width: 367px;
+	height: 47px;
+	left: 761px;
+	top: 582px;
+	overflow: visible;
+}
+.Rectangle_4_Class {
+	fill: rgba(255,255,255,0);
+	stroke: rgba(112,112,112,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 6px;
+	top: 5px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.About_Us_cl_Class {
+	left: 867px;
+	top: 201px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Established_in_1856_the_Florid_Class {
+	left: 78px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 1765px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Ellipse_7_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 900px;
+	top: 474px;
+}
+.Ellipse_8_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 942px;
+	top: 474px;
+}
+.Ellipse_9_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 984px;
+	top: 474px;
+}
+.Archives_Class {
+	left: 882px;
+	top: 534px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Component_36__1_Class {
+	position: absolute;
+	width: 356px;
+	height: 46px;
+	left: 769px;
+	top: 583px;
+	overflow: visible;
+}
+.link_to_original_website_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+.Contact_Class {
+	left: 889px;
+	top: 673px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Hours_of_operation_Tuesday-Thu_Class {
+	left: 138px;
+	top: 772px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Address_435_Brevard_Avenue_Coc_Class {
+	left: 1134px;
+	top: 772px;
+	position: absolute;
+	overflow: visible;
+	width: 667px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Phone_Number_321-690-1971_Class {
+	left: 1347px;
+	top: 889px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Affiliates_Class {
+	left: 870px;
+	top: 1127px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}

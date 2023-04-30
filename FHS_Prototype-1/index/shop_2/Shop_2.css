@@ -1,0 +1,1046 @@
+.mediaViewInfo {
+	--web-view-name: Shop 2;
+	--web-view-id: Shop_2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Shop_2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Shop_2_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Shop 2;
+	--web-view-id: Shop_2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.shop_29_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1146px;
+	left: 0px;
+	top: -66px;
+	overflow: visible;
+}
+.background_Class {
+	fill: rgba(40,94,166,1);
+}
+.background {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 1092px;
+	left: -1px;
+	top: -3px;
+}
+.Next_Button_Shopping_Class {
+	position: absolute;
+	width: 253px;
+	height: 68px;
+	left: 924px;
+	top: 916px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Shop_3.html;
+	cursor: pointer;
+}
+.Rectangle_1_Class {
+	fill: rgba(217,217,217,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Next_Class {
+	left: 85px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 177px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button_ba_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ba {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 255px;
+	height: 65px;
+	left: 467px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bd_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bd {
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 67px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 238px;
+	height: 65px;
+	left: 722px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: events.html;
+	cursor: pointer;
+}
+.Events_Button_bg_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_bg {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 79.491px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 210px;
+	height: 65px;
+	left: 960px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bj_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bj {
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 67.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 223px;
+	height: 65px;
+	left: 1170px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bm_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bm {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 35px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 212px;
+	height: 65px;
+	left: 1392px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_bp_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bp {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 57px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 288px;
+	height: 65px;
+	left: 1603px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_bs_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_bs {
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 88.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 25px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_227_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_227 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 832px;
+	left: 1251px;
+	top: 168px;
+}
+.ted_Class {
+	position: absolute;
+	width: 247px;
+	height: 329px;
+	left: 1291px;
+	top: 227px;
+	overflow: visible;
+}
+.asj_Class {
+	position: absolute;
+	width: 247px;
+	height: 329px;
+	left: 1291px;
+	top: 621px;
+	overflow: visible;
+}
+.Rectangle_209_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_209 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 155px;
+	left: 1590px;
+	top: 227px;
+}
+.Rectangle_210_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_210 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 155px;
+	left: 1590px;
+	top: 621px;
+}
+.Rectangle_211_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_211 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 56px;
+	left: 1590px;
+	top: 417px;
+}
+.Rectangle_212_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_212 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 56px;
+	left: 1590px;
+	top: 811px;
+}
+.Rectangle_213_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_213 {
+	position: absolute;
+	overflow: visible;
+	width: 614px;
+	height: 56px;
+	left: 86px;
+	top: 296px;
+}
+.Rectangle_225_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_225 {
+	position: absolute;
+	overflow: visible;
+	width: 1150px;
+	height: 763px;
+	left: 57px;
+	top: 240px;
+}
+.Rectangle_226_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_226 {
+	position: absolute;
+	overflow: visible;
+	width: 1150px;
+	height: 67px;
+	left: 57px;
+	top: 173px;
+}
+.Rectangle_214_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_214 {
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	height: 56px;
+	left: 86px;
+	top: 384px;
+}
+.Rectangle_228_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_228 {
+	position: absolute;
+	overflow: visible;
+	width: 629px;
+	height: 61px;
+	left: 87px;
+	top: 296px;
+}
+.Rectangle_215_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_215 {
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	height: 56px;
+	left: 86px;
+	top: 472px;
+}
+.Rectangle_216_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_216 {
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	height: 56px;
+	left: 86px;
+	top: 560px;
+}
+.Rectangle_217_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_217 {
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	height: 56px;
+	left: 86px;
+	top: 648px;
+}
+.Rectangle_218_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_218 {
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	height: 56px;
+	left: 85px;
+	top: 736px;
+}
+.Rectangle_219_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_219 {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 56px;
+	left: 177px;
+	top: 824px;
+}
+.Rectangle_220_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_220 {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 56px;
+	left: 632px;
+	top: 472px;
+}
+.Rectangle_221_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_221 {
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	height: 56px;
+	left: 632px;
+	top: 556px;
+}
+.Rectangle_222_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_222 {
+	position: absolute;
+	overflow: visible;
+	width: 230px;
+	height: 56px;
+	left: 885px;
+	top: 556px;
+}
+.Rectangle_223_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_223 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 56px;
+	left: 85px;
+	top: 824px;
+}
+.Rectangle_224_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_224 {
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 68px;
+	left: 924px;
+	top: 916px;
+}
+.arrow_Class {
+	transform: matrix(1,0,0,1,657.625,299.375) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 39.75px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Line_4_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 25.712px;
+	height: 40.784px;
+	left: 23px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 24.731px;
+	height: 40.751px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.arrow_cm_Class {
+	transform: matrix(1,0,0,1,753.125,560.5) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 39.75px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Line_4_cn_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_cn {
+	overflow: visible;
+	position: absolute;
+	width: 25.712px;
+	height: 40.784px;
+	left: 23px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_co_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_co {
+	overflow: visible;
+	position: absolute;
+	width: 24.731px;
+	height: 40.752px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_6_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 11.806px;
+	height: 21.86px;
+	left: 98.5px;
+	top: 848px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_7_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 24.657px;
+	height: 35.121px;
+	left: 108.5px;
+	top: 835px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Country_Class {
+	left: 98px;
+	top: 298px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Full_Name_Class {
+	left: 98px;
+	top: 384px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Address_1_Class {
+	left: 93px;
+	top: 470px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.City_Class {
+	left: 98px;
+	top: 564px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Email_Class {
+	left: 98px;
+	top: 654px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Phone_Number_Class {
+	left: 98px;
+	top: 740px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.My_Shipping_information_is_the_Class {
+	left: 186px;
+	top: 826px;
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Address_2_Class {
+	left: 637px;
+	top: 477px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.State_Class {
+	left: 637px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.ZIP_Code_Class {
+	left: 897px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Next_c_Class {
+	left: 1013px;
+	top: 927px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.BILLING_INFORMATION_Class {
+	left: 68px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 556px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Discovering_ASJ_Allen_Class {
+	left: 1604px;
+	top: 622px;
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Tim_Gilmore_and_Mark_Pappas_Class {
+	left: 1604px;
+	top: 228px;
+	position: absolute;
+	overflow: visible;
+	width: 234px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.n_995_c_Class {
+	left: 1603px;
+	top: 425px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.n_995_c_Class {
+	left: 1603px;
+	top: 425px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.n_995_da_Class {
+	left: 1604px;
+	top: 821px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}

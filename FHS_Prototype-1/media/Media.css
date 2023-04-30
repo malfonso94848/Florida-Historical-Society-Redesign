@@ -1,0 +1,1200 @@
+.mediaViewInfo {
+	--web-view-name: Media;
+	--web-view-id: Media;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Media;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Media_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2865px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Media;
+	--web-view-id: Media;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.media_132_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.media_233_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1076px;
+	overflow: visible;
+}
+.media_334_Class {
+	position: absolute;
+	width: 1362px;
+	height: 766px;
+	left: 279px;
+	top: 2152px;
+	overflow: visible;
+}
+.background_Class {
+	fill: rgba(40,94,166,1);
+}
+.background {
+	overflow: visible;
+	position: absolute;
+	width: 1923px;
+	height: 2918.008px;
+	left: -3px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 178px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button__Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 255px;
+	height: 65px;
+	left: 469px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bc_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bc {
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 67px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 237px;
+	height: 65px;
+	left: 724px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_bf_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_bf {
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 78.988px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 211px;
+	height: 65px;
+	left: 961px;
+	top: 43px;
+	overflow: visible;
+}
+.Media_Button_bi_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bi {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_bj_Class {
+	left: 68px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 223px;
+	height: 65px;
+	left: 1172px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bl_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bl {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 35px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 212px;
+	height: 65px;
+	left: 1395px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_bo_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bo {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 57px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 286px;
+	height: 65px;
+	left: 1607px;
+	top: 43px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_br_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_br {
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 87.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 25px;
+	top: 15px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_194_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_194 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 69px;
+	left: 696px;
+	top: 162px;
+}
+.Media_bx_Class {
+	left: 886px;
+	top: 166px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.media_Class {
+	position: absolute;
+	width: 1869px;
+	height: 375px;
+	left: 25px;
+	top: 265px;
+	overflow: visible;
+}
+.Ellipse_31_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_31 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 906px;
+	top: 657px;
+}
+.Ellipse_30_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_30 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 948px;
+	top: 657px;
+}
+.Ellipse_29_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 990px;
+	top: 657px;
+}
+.FF_Radio_Programs_Class {
+	position: absolute;
+	width: 606px;
+	height: 320px;
+	left: 29px;
+	top: 702px;
+	overflow: visible;
+}
+.Rectangle_160_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_160 {
+	position: absolute;
+	overflow: visible;
+	width: 606px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+.front_Class {
+	position: absolute;
+	width: 606px;
+	height: 262px;
+	left: 0px;
+	top: 58px;
+	overflow: visible;
+}
+.FF_Radio_Programs_b_Class {
+	left: 146px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.FHQ_Class {
+	position: absolute;
+	width: 575px;
+	height: 936px;
+	left: 44px;
+	top: 1150px;
+	overflow: visible;
+}
+.Rectangle_166_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_166 {
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	height: 143px;
+	left: 0px;
+	top: 0px;
+}
+.books_Class {
+	position: absolute;
+	width: 575px;
+	height: 793px;
+	left: 0px;
+	top: 143px;
+	overflow: visible;
+}
+.FHQ_b_Class {
+	left: 241px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FF_Newspaper_Articles_Class {
+	position: absolute;
+	width: 575px;
+	height: 936px;
+	left: 673px;
+	top: 1150px;
+	overflow: visible;
+}
+.Rectangle_169_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_169 {
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	height: 143px;
+	left: 0px;
+	top: 0px;
+}
+.newspapers_Class {
+	position: absolute;
+	width: 575px;
+	height: 793px;
+	left: 0px;
+	top: 143px;
+	overflow: visible;
+}
+.FF_Newspaper_Articles_cd_Class {
+	left: 39px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FF_TV_Episodes_Class {
+	position: absolute;
+	width: 575px;
+	height: 936px;
+	left: 1304px;
+	top: 1150px;
+	overflow: visible;
+}
+.Rectangle_171_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_171 {
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	height: 143px;
+	left: 0px;
+	top: 0px;
+}
+.tvs_Class {
+	position: absolute;
+	width: 575px;
+	height: 793px;
+	left: 0px;
+	top: 143px;
+	overflow: visible;
+}
+.FF_TV_Episodes_ch_Class {
+	left: 126px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.Fast_Florida_History_Class {
+	position: absolute;
+	width: 606px;
+	height: 320px;
+	left: 657px;
+	top: 702px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Historical_Article.html;
+	cursor: pointer;
+}
+.Rectangle_162_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_162 {
+	position: absolute;
+	overflow: visible;
+	width: 606px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+.fast_Class {
+	position: absolute;
+	width: 606px;
+	height: 262px;
+	left: 0px;
+	top: 58px;
+	overflow: visible;
+}
+.Fast_Florida_History_cl_Class {
+	left: 138px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Quarterly_Class {
+	position: absolute;
+	width: 606px;
+	height: 320px;
+	left: 1288px;
+	top: 702px;
+	overflow: visible;
+}
+.Rectangle_165_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_165 {
+	position: absolute;
+	overflow: visible;
+	width: 606px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+.quarterly_Class {
+	position: absolute;
+	width: 606px;
+	height: 262px;
+	left: 0px;
+	top: 58px;
+	overflow: visible;
+}
+.FHS_Quarterly_cp_Class {
+	left: 184px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_173_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_173 {
+	position: absolute;
+	overflow: visible;
+	width: 892px;
+	height: 400px;
+	left: 46px;
+	top: 2357px;
+}
+.Rectangle_181_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_181 {
+	position: absolute;
+	overflow: visible;
+	width: 892px;
+	height: 400px;
+	left: 987px;
+	top: 2357px;
+}
+.Rectangle_172_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_172 {
+	position: absolute;
+	overflow: visible;
+	width: 892px;
+	height: 143px;
+	left: 46px;
+	top: 2214px;
+}
+.Rectangle_178_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_178 {
+	position: absolute;
+	overflow: visible;
+	width: 892px;
+	height: 143px;
+	left: 987px;
+	top: 2214px;
+}
+.FHS_Press_Class {
+	left: 386px;
+	top: 2251px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Blogs_Class {
+	left: 1327px;
+	top: 2251px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.divider_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.divider {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 399.821px;
+	left: 494.5px;
+	top: 2357.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.divider_cx_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.divider_cx {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 399.821px;
+	left: 1435.5px;
+	top: 2357.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_174_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_174 {
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	height: 122px;
+	left: 67px;
+	top: 2387px;
+}
+.FHQ_cz_Class {
+	left: 218px;
+	top: 2410px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Press_FHQ_Button_Class {
+	position: absolute;
+	width: 168px;
+	height: 81px;
+	left: 180px;
+	top: 2655px;
+	overflow: visible;
+}
+.Rectangle_176_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_176 {
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	height: 81px;
+	left: 0px;
+	top: 0px;
+}
+.arrow_Class {
+	position: absolute;
+	width: 55px;
+	height: 47px;
+	left: 56.5px;
+	top: 17px;
+	overflow: visible;
+}
+.Line_4_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 55.801px;
+	height: 25.833px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 55.773px;
+	height: 24.845px;
+	left: 0px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_175_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_175 {
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	height: 122px;
+	left: 522px;
+	top: 2387px;
+}
+.Ordering_Class {
+	left: 625px;
+	top: 2410px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Press_Ordering_Button_Class {
+	position: absolute;
+	width: 168px;
+	height: 81px;
+	left: 635px;
+	top: 2655px;
+	overflow: visible;
+}
+.Rectangle_177_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_177 {
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	height: 81px;
+	left: 0px;
+	top: 0px;
+}
+.arrow_c_Class {
+	position: absolute;
+	width: 55px;
+	height: 47px;
+	left: 56.5px;
+	top: 17px;
+	overflow: visible;
+}
+.Line_4_da_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_da {
+	overflow: visible;
+	position: absolute;
+	width: 55.801px;
+	height: 25.833px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_db_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_db {
+	overflow: visible;
+	position: absolute;
+	width: 55.773px;
+	height: 24.845px;
+	left: 0px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_179_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_179 {
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	height: 122px;
+	left: 1008px;
+	top: 2387px;
+}
+.Florida_Frontiers__Blog_Class {
+	left: 1027px;
+	top: 2387px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Blogs_Florida_Frontiers_Bl_Class {
+	position: absolute;
+	width: 168px;
+	height: 81px;
+	left: 1121px;
+	top: 2655px;
+	overflow: visible;
+}
+.Rectangle_183_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_183 {
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	height: 81px;
+	left: 0px;
+	top: 0px;
+}
+.arrow_dg_Class {
+	position: absolute;
+	width: 55px;
+	height: 47px;
+	left: 56.5px;
+	top: 17px;
+	overflow: visible;
+}
+.Line_4_dh_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_dh {
+	overflow: visible;
+	position: absolute;
+	width: 55.801px;
+	height: 25.833px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_di_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_di {
+	overflow: visible;
+	position: absolute;
+	width: 55.773px;
+	height: 24.845px;
+	left: 0px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_180_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_180 {
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	height: 122px;
+	left: 1463px;
+	top: 2387px;
+}
+.Preservation__Blog_Class {
+	left: 1521px;
+	top: 2387px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.FHS_Blogs_Preservation_Blogs_Class {
+	position: absolute;
+	width: 168px;
+	height: 81px;
+	left: 1576px;
+	top: 2655px;
+	overflow: visible;
+}
+.Rectangle_182_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_182 {
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	height: 81px;
+	left: 0px;
+	top: 0px;
+}
+.arrow_dn_Class {
+	position: absolute;
+	width: 55px;
+	height: 47px;
+	left: 56.5px;
+	top: 17px;
+	overflow: visible;
+}
+.Line_4_do_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4_do {
+	overflow: visible;
+	position: absolute;
+	width: 55.801px;
+	height: 25.833px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_dp_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_dp {
+	overflow: visible;
+	position: absolute;
+	width: 55.773px;
+	height: 24.845px;
+	left: 0px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}

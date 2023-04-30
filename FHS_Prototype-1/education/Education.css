@@ -1,0 +1,701 @@
+.mediaViewInfo {
+	--web-view-name: Education;
+	--web-view-id: Education;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Education;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Education_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2152px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Education;
+	--web-view-id: Education;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+.education_124_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 2px;
+	top: 0px;
+	overflow: visible;
+}
+.education_225_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 2px;
+	top: 1076px;
+	overflow: visible;
+}
+.background_Class {
+	fill: rgba(40,94,166,1);
+}
+.background {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 2158px;
+	left: 3px;
+	top: 0px;
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 288px;
+	height: 65px;
+	left: 182px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button__Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ {
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 88.988px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 255px;
+	height: 65px;
+	left: 470px;
+	top: 38px;
+	overflow: visible;
+}
+.Education_Button_bb_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bb {
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_bc_Class {
+	left: 67px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 237px;
+	height: 65px;
+	left: 725px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_be_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_be {
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 78.988px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 211px;
+	height: 65px;
+	left: 962px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bh_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bh {
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 68px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 223px;
+	height: 65px;
+	left: 1173px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bk_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bk {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 35px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 212px;
+	height: 65px;
+	left: 1396px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_bn_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bn {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 57px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 286px;
+	height: 65px;
+	left: 1608px;
+	top: 38px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_bq_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_bq {
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 87.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 27px;
+	top: 10px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Digital_Media_Resources_Button_Class {
+	position: absolute;
+	width: 903px;
+	height: 446px;
+	left: 960px;
+	top: 1135px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Digital_Media_Resources.html;
+	cursor: pointer;
+}
+.Rectangle_191_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_191 {
+	position: absolute;
+	overflow: visible;
+	width: 903px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_192_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_192 {
+	position: absolute;
+	overflow: visible;
+	width: 903px;
+	height: 326px;
+	left: 0px;
+	top: 120px;
+}
+.Digital_Media_Resources_Class {
+	left: 166px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Digital_Media_Resources_Button_bz_Class {
+	position: absolute;
+	width: 903px;
+	height: 326px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Digital_Media_Resources.html;
+	cursor: pointer;
+}
+.Rectangle_190_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_190 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 69px;
+	left: 729px;
+	top: 162px;
+}
+.education_banner_Class {
+	position: absolute;
+	width: 1869px;
+	height: 347px;
+	left: 28px;
+	top: 254px;
+	overflow: visible;
+}
+.Rectangle_97_Class {
+	fill: rgba(175,194,218,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_97 {
+	position: absolute;
+	overflow: visible;
+	width: 1869px;
+	height: 372px;
+	left: 26px;
+	top: 671px;
+}
+.Education_b_Class {
+	left: 878px;
+	top: 166px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.The_Florida_Historical_Society_Class {
+	left: 187px;
+	top: 705px;
+	position: absolute;
+	overflow: visible;
+	width: 1623px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.Library_Classroom_Resources_Class {
+	position: absolute;
+	width: 903px;
+	height: 446px;
+	left: 28px;
+	top: 1135px;
+	overflow: visible;
+}
+.Rectangle_105_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_105 {
+	position: absolute;
+	overflow: visible;
+	width: 903px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.libarys_Class {
+	position: absolute;
+	width: 903px;
+	height: 326px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Library_Classroom_Resources_b_Class {
+	left: 106px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 693px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_315_Class {
+	fill: rgba(255,255,255,0.302);
+}
+.Rectangle_315 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 903px;
+	height: 446px;
+	left: 0px;
+	top: 0px;
+}
+.FHS_Exhibits_Class {
+	position: absolute;
+	width: 903px;
+	height: 446px;
+	left: 28px;
+	top: 1616px;
+	overflow: visible;
+}
+.Rectangle_103_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_103 {
+	position: absolute;
+	overflow: visible;
+	width: 903px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.exhbiii_Class {
+	position: absolute;
+	width: 903px;
+	height: 326px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.FHS_Exhibits_cd_Class {
+	left: 306px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Opensource_Artwork_Class {
+	position: absolute;
+	width: 903px;
+	height: 446px;
+	left: 960px;
+	top: 1616px;
+	overflow: visible;
+}
+.Rectangle_101_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_101 {
+	position: absolute;
+	overflow: visible;
+	width: 903px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.paint_Class {
+	position: absolute;
+	width: 903px;
+	height: 326px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+.Opensource_Artwork_ch_Class {
+	left: 202px;
+	top: 28px;
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+.Ellipse_26_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_26 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 944px;
+	top: 624px;
+}
+.Ellipse_27_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 986px;
+	top: 624px;
+}
+.Ellipse_28_Class {
+	fill: rgba(175,194,218,1);
+}
+.Ellipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 1028px;
+	top: 624px;
+}

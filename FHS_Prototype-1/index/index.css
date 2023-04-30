@@ -1,0 +1,1149 @@
+.mediaViewInfo {
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Homepage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Homepage_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2161px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+.home_page_22_Class {
+	position: absolute;
+	width: 1982px;
+	height: 1146px;
+	left: -22px;
+	top: 1013px;
+	overflow: visible;
+}
+.home_page_1_1_Class {
+	position: absolute;
+	width: 1923px;
+	height: 1146px;
+	left: -3px;
+	top: -65px;
+	overflow: visible;
+}
+.Rectangle_25_Class {
+	fill: rgba(40,94,166,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 2159px;
+	left: -3px;
+	top: 0px;
+}
+.About_Us_Button_Class {
+	position: absolute;
+	width: 290px;
+	height: 65px;
+	left: 180px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: About_Us.html;
+	cursor: pointer;
+}
+.About_Us_Button__Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.About_Us_Button_ {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.About_Us_Class {
+	left: 89.994px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Education_Button_Class {
+	position: absolute;
+	width: 256px;
+	height: 65px;
+	left: 469px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Education.html;
+	cursor: pointer;
+}
+.Education_Button_bb_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Education_Button_bb {
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Education_Class {
+	left: 67.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Events_Button_Class {
+	position: absolute;
+	width: 235px;
+	height: 65px;
+	left: 725px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Events_Button_be_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Events_Button_be {
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Events_Class {
+	left: 77.981px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Media_Button_Class {
+	position: absolute;
+	width: 212px;
+	height: 65px;
+	left: 960px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Media.html;
+	cursor: pointer;
+}
+.Media_Button_bh_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Media_Button_bh {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Media_Class {
+	left: 68.5px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Membership_Button_Class {
+	position: absolute;
+	width: 226px;
+	height: 65px;
+	left: 1172px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Membership.html;
+	cursor: pointer;
+}
+.Membership_Button_bk_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Membership_Button_bk {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Membership_Class {
+	left: 36.522px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Support_Button_Class {
+	position: absolute;
+	width: 208px;
+	height: 65px;
+	left: 1398px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Support.html;
+	cursor: pointer;
+}
+.Support_Button_bn_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Support_Button_bn {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Support_Class {
+	left: 55px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Research_Button_Class {
+	position: absolute;
+	width: 289px;
+	height: 65px;
+	left: 1605px;
+	top: 33px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Research.html;
+	cursor: pointer;
+}
+.Research_Button_bq_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(40,94,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Research_Button_bq {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Research_Class {
+	left: 89px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Button_Class {
+	position: absolute;
+	width: 566px;
+	height: 614px;
+	left: 705px;
+	top: 1256px;
+	overflow: visible;
+	--web-animation: fadein 0s linear;
+	--web-action-type: page;
+	--web-action-target: Events_Calendar.html;
+	cursor: pointer;
+}
+.Rectangle_15_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 566px;
+	height: 382px;
+	left: 0px;
+	top: 117px;
+}
+.Rectangle_16_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 566px;
+	height: 117px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_17_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 566px;
+	height: 115px;
+	left: 0px;
+	top: 499px;
+}
+.n_022_Annual_Meeting_Class {
+	left: 172px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(0,0,0,1);
+}
+.Click_Here_to_Register_Class {
+	left: 84px;
+	top: 498px;
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(0,0,0,1);
+}
+.Shop_Button_Class {
+	position: absolute;
+	width: 566px;
+	height: 381px;
+	left: 0px;
+	top: 117px;
+	overflow: visible;
+}
+.Shop_Button_bz_Class {
+	position: absolute;
+	width: 598px;
+	height: 614px;
+	left: 1292px;
+	top: 1256px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Shop_1.html;
+	cursor: pointer;
+}
+.Rectangle_18_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 598px;
+	height: 382px;
+	left: 0px;
+	top: 117px;
+}
+.Rectangle_19_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 598px;
+	height: 117px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_20_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 598px;
+	height: 115px;
+	left: 0px;
+	top: 499px;
+}
+.n_995_Class {
+	left: 446px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+.Shop_Here_Class {
+	left: 201px;
+	top: 496px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.The_Biography_of_John_Wayne_Mi_Class {
+	left: 11px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+.Shop_Button_b_Class {
+	position: absolute;
+	width: 193px;
+	height: 356px;
+	left: 203px;
+	top: 130px;
+	overflow: visible;
+}
+.Home_Button_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 27px;
+	top: 5px;
+	overflow: visible;
+}
+.LogoHome_Button_Class {
+	fill: rgba(16,37,65,1);
+	stroke: rgba(72,118,178,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.LogoHome_Button {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 118px;
+	left: 1px;
+	top: 2px;
+}
+.fhs_logo_Class {
+	position: absolute;
+	width: 120px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Islands_in_the_Stream_Class {
+	position: absolute;
+	width: 476px;
+	height: 590px;
+	left: 37px;
+	top: 383px;
+	overflow: visible;
+}
+.Rectangle_14_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	height: 248px;
+	left: 0px;
+	top: 342px;
+}
+.Rectangle_13_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+}
+.rocks_Class {
+	position: absolute;
+	width: 476px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Florida_Frontiers__Islands_in__Class {
+	left: 68px;
+	top: 380px;
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_297_Class {
+	fill: rgba(124,135,151,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_297 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 111px;
+	left: -3px;
+	top: 1124px;
+}
+.Paintings_of_Nostalgic_Florida_Class {
+	position: absolute;
+	width: 472px;
+	height: 595px;
+	left: 516px;
+	top: 383px;
+	overflow: visible;
+}
+.Rectangle_14_ch_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_14_ch {
+	position: absolute;
+	overflow: visible;
+	width: 472px;
+	height: 248px;
+	left: 0px;
+	top: 342px;
+}
+.Rectangle_13_ci_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_13_ci {
+	position: absolute;
+	overflow: visible;
+	width: 472px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+}
+.artists_Class {
+	position: absolute;
+	width: 472px;
+	height: 355px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Florida_Frontiers__Paintings_o_Class {
+	left: 6px;
+	top: 380px;
+	position: absolute;
+	overflow: visible;
+	width: 461px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.The_Most_Famous_Speech_Class {
+	position: absolute;
+	width: 463px;
+	height: 590px;
+	left: 988px;
+	top: 383px;
+	overflow: visible;
+}
+.Rectangle_14_cm_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_14_cm {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 248px;
+	left: 0px;
+	top: 342px;
+}
+.Rectangle_13_cn_Class {
+	fill: rgba(175,194,218,1);
+}
+.Rectangle_13_cn {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+}
+.speech_Class {
+	position: absolute;
+	width: 463px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Florida_Frontiers__The_Most_Fa_Class {
+	left: 36px;
+	top: 380px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.First_Trees_Cleared_Class {
+	position: absolute;
+	width: 443px;
+	height: 590px;
+	left: 1455px;
+	top: 383px;
+	overflow: visible;
+}
+.Rectangle_14_cr_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_14_cr {
+	position: absolute;
+	overflow: visible;
+	width: 443px;
+	height: 248px;
+	left: 0px;
+	top: 342px;
+}
+.trees_Class {
+	position: absolute;
+	width: 443px;
+	height: 359px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.First_Trees_Cleared_For__Ybor__Class {
+	left: 50px;
+	top: 380px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_12_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1866px;
+	height: 75px;
+	left: 28px;
+	top: 245px;
+}
+.Welcome_to_the_Florida_Histori_Class {
+	left: 323px;
+	top: 260px;
+	position: absolute;
+	overflow: visible;
+	width: 1332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_11_Class {
+	fill: rgba(71,69,69,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 47px;
+	left: 1674px;
+	top: 2039px;
+}
+.Social_Media_Engagement_Class {
+	position: absolute;
+	width: 626px;
+	height: 614px;
+	left: 58px;
+	top: 1256px;
+	overflow: visible;
+}
+.Rectangle_21_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(83,123,174,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 626px;
+	height: 215px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_22_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(83,123,174,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 626px;
+	height: 204px;
+	left: 0px;
+	top: 215px;
+}
+.Rectangle_23_Class {
+	fill: rgba(115,149,191,1);
+	stroke: rgba(83,123,174,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 626px;
+	height: 195px;
+	left: 0px;
+	top: 419px;
+}
+.iron_lego_man_Class {
+	position: absolute;
+	width: 132px;
+	height: 132px;
+	left: 35px;
+	top: 41px;
+	overflow: visible;
+}
+.peter_Class {
+	position: absolute;
+	width: 132px;
+	height: 132px;
+	left: 35px;
+	top: 250px;
+	overflow: visible;
+}
+.dr_strange_Class {
+	position: absolute;
+	width: 132px;
+	height: 132px;
+	left: 35px;
+	top: 459px;
+	overflow: visible;
+}
+.Tony_Stark_Class {
+	left: 334px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Peter_Parker_Class {
+	left: 328px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Stephen_Strange_Class {
+	left: 292px;
+	top: 448px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.I_love_you_3000_FHS_Class {
+	left: 267px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.I_wanna_be_just_like_you_Flori_Class {
+	left: 240px;
+	top: 276px;
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Great_Class {
+	left: 364px;
+	top: 509px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_24_Class {
+	fill: rgba(115,149,191,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 176px;
+	left: -3px;
+	top: 1985px;
+}
+.Most_Popular_Items_In_The_Shop_Class {
+	left: 1396px;
+	top: 1124px;
+	position: absolute;
+	overflow: visible;
+	width: 391px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Event_Reminders_Class {
+	left: 819px;
+	top: 1151px;
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Most_Popular_Items_In_The_Shop_dd_Class {
+	left: 176px;
+	top: 1124px;
+	position: absolute;
+	overflow: visible;
+	width: 391px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.n_35_Brevard_Avenue_Cocoa_Flor_Class {
+	left: 666px;
+	top: 1995px;
+	position: absolute;
+	overflow: visible;
+	width: 589px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.n_21-690-1971_Class {
+	left: 856px;
+	top: 2046px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Youtube_link_Class {
+	position: absolute;
+	width: 118px;
+	height: 41px;
+	left: 805px;
+	top: 2097px;
+	overflow: visible;
+}
+.Youtube_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Facebook_link_Class {
+	position: absolute;
+	width: 134px;
+	height: 41px;
+	left: 988px;
+	top: 2097px;
+	overflow: visible;
+}
+.Facebook_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.About_Us_Link_Class {
+	position: absolute;
+	width: 154px;
+	height: 46px;
+	left: 1117px;
+	top: 260px;
+	overflow: visible;
+}
+.Click_here_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
