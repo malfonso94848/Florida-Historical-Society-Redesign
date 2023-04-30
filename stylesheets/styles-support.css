@@ -1,0 +1,99 @@
+body{
+    background-color: #285EA6;
+    font-family: sans-serif;
+}
+nav {
+  width: 100%;
+  overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #102541;
+  display: inline-block;
+}
+
+.logo{
+  float:left;
+}
+li {
+  float: left;
+  text-align: center;
+  padding: 10px 20px 30px 40px;
+}
+
+li a {
+  display: block;
+  color: rgb(231, 246, 250);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(0, 128, 255);
+}
+
+
+a img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=40);
+}
+
+.support{
+    background-color:#7395BF;
+    text-align:center;
+}
+.thanks{
+    background-color:#7395BF;
+    text-align:center;
+    font-size: 25px;
+}
+.grid-container-publications{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #7395BF;
+    padding: 10px;
+    grid-gap: 5px;
+    text-align: center;
+}
+.pub-title{
+    background-color: #7395BF;
+    text-align:center;
+    font-size: 25px;
+}
+.grid-item-info1{
+    background-color: #AFC2DA;
+    text-align:center;
+    font-size: 25px;
+    grid-gap: 5px;
+}
+
+footer{
+  width: 100%;
+  background: #a8bbd3;
+  text-align: center; 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.donate-banner{
+  background-color: #7395BF;
+  text-align:center;
+}
+.grid-container-donate{
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #a8bbd3;
+  padding: 10px;
+  grid-gap: 10px;
+  text-align: center;
+}
+.donations{
+  background-color: #7395BF;
+  font-size: 30px;
+}

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link
+      href="stylesheets/styles-index.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+
+  <!--Created a new navigation bar. The old one is above-->
+  <nav>
+    <a href="index.html">
+      <img
+        class="logo"
+        src="FHS_Prototype-1/index/fhs_logo.png"
+        alt="Florida Historical Society Logo"
+        width="75"
+        height="75"
+      />
+    </a>
+    <li><a class="active" href="about-us.html">About Us</a></li>
+    <li><a class="active" href="education.html">Education</a></li>
+    <li><a class="active" href="fhscalendar.php">Events</a></li>
+    <li><a class="active" href="media.html">Media</a></li>
+    <li><a class="active" href="membership.html">Membership</a></li>
+    <li><a class="active" href="support.html">Support</a></li>
+    <li><a class="active" href="research.html">Research</a></li>
+  </nav>
+
+  <body>
+    <!-- The index does not begin with an h1 tag like others in our hi-fidelity -->
+    <!-- Old welcome intro
+      <p>
+      Welcome to the Florida Historical Society website!
+      <a href="about-us.html"><em>Click here</em></a>
+      to learn more about us!
+    </p>
+    -->
+
+    <!--new welcome intro-->
+    <div class="grid-container-welcome">
+      <div class="grid-item-welcome">
+        <p>
+          Welcome to the Florida Historical Society website!
+          <a href="about-us.html"><em>Click here</em></a>
+          to learn more about us!
+        </p>
+      </div>
+    </div>
+
+    <!-- This is the first grid. It has 4 sections thus the class should be called something along the lines of "Grid-4" -->
+    <div class="grid-container-4">
+      <!-- Using placeholder class name. Sectioned for convenience. -->
+      <div class="grid-item-4">
+        <a href="https://myfloridahistory.org/frontiers/article/145">
+          <img
+            src="FHS_Prototype-1/index/rocks_updated.webp"
+            alt="Ancient Ruins"
+            width="200"
+            height="200"
+        /></a>
+        <p>
+          Florida Frontiers <br />
+          “Islands in the Stream Conference Cruise”
+        </p>
+      </div>
+
+      <div class="grid-item-4">
+        <a href="https://myfloridahistory.org/frontiers/article/198">
+          <img
+            src="FHS_Prototype-1/index/artists.png"
+            alt="Tropical Beach"
+            width="200"
+            height="200"
+        /></a>
+        <p>
+          Florida Frontiers <br />
+          “Paintings of Nostalgic Florida: The Original Highwaymen Artists”
+        </p>
+      </div>
+
+      <div class="grid-item-4">
+        <a href="https://myfloridahistory.org/frontiers/article/93">
+          <img
+            src="FHS_Prototype-1/index/speech_updated.jpg"
+            alt="Man next to Board"
+            width="200"
+            height="200"
+        /></a>
+        <p>
+          Florida Frontiers <br />
+          “The Most Famous Speech Never Given”
+        </p>
+      </div>
+
+      <div class="grid-item-4">
+        <a
+          href="https://myfloridahistory.org/date-in-history/october-08-1885/first-trees-cleared-ybor-city-development"
+        >
+          <img
+            src="FHS_Prototype-1/index/trees.png"
+            alt="Crowd Inside Church"
+            width="200"
+            height="200"
+        /></a>
+        <p>First Trees Cleared For Ybor City Development</p>
+      </div>
+    </div>
+
+    <!-- Given the titles of the next grid bear similar properties, we should be able to apply the same grid to these as well -->
+    <div class="grid-container-3">
+      <div class="grid-item-3">
+        <h2>Social Media Reviews</h2>
+      </div>
+
+      <div class="grid-item-3">
+        <h2>Event Reminders</h2>
+      </div>
+
+      <div class="grid-item-3">
+        <h2>Most Popular Items In The Shop</h2>
+      </div>
+    </div>
+
+    <div class="grid-container-info">
+      <!-- This is the user posting section. I am unsure if we want to apply a scrolling functionality to this window or if we will take the approach on the hi-fidelity and use this entire section as a link. -->
+      <div class="grid-container-reviews">
+        <div class="grid-item-3-1">
+          <img
+            src="FHS_Prototype-1/index/iron_lego_man.png"
+            alt="Iron Man Lego"
+          />
+          <p>Tony Stark</p>
+          <p>I love you 3000 FHS.</p>
+        </div>
+
+        <div class="grid-item-3-1">
+          <img src="FHS_Prototype-1/index/peter.png" alt="Peter Parker" />
+          <p>Peter Parker</p>
+          <br />
+          <p>
+            I want to be just like you, <br />
+            Florida Historical Society!
+          </p>
+        </div>
+
+        <div class="grid-item-3-1">
+          <img src="FHS_Prototype-1/index/dr_strange.png" alt="Dr Strange" />
+          <p>Stephen Strange</p>
+          <p>Great.</p>
+        </div>
+      </div>
+
+      <!-- With how similar this section is to the next, we can likely reuse the class. Though with the inconsistent font sizes, I was unsure which h tags to use -->
+      <div class="grid-item-3-1">
+        <h3>
+          2022 Annual <br />
+          Meeting
+        </h3>
+        <a href="membership.html">
+          <img
+            src="FHS_Prototype-1/index/Shop_Button.png"
+            alt="Annual Meeting Screenshot"
+            width="300"
+            height="300"
+        /></a>
+        <h3>Click Here to Register</h3>
+      </div>
+
+      <!-- I have added id's to the first lines of text as a method of getting around the allignment confliction.-->
+      <div class="grid-item-3-1">
+        <p class="text1">
+          The Biography of John Wayne <br />
+          Mixson: Florida's 39th Governor
+        </p>
+        <p class="text2">$19.95</p>
+        <a href="https://myfloridahistory.org/catalog"
+          ><img src="FHS_Prototype-1/index/Shop_Button_b.png" alt="Book Cover"
+          width="300"
+          height="400"
+        /></a>
+        <h3>Shop Here</h3>
+      </div>
+    </div>
+
+    <!-- I am unsure how we will want to handle the address or phone number. We can likely link the address to a google map of the location, but given the site is being designed for web view, we will likely be unable to link a phone number via direct dial-->
+    <footer>
+      <p>435 Brevard Avenue, Cocoa, Florida 32922</p>
+      <p>(321)-690-1971</p>
+      <a href="https://www.youtube.com/@myfloridahistory" target="_blank"
+        >Youtube</a
+      >
+      &nbsp; &nbsp; &nbsp;
+      <a
+        href="https://www.facebook.com/FloridaHistoricalSociety/"
+        target="_blank"
+        >Facebook</a
+      >
+    </footer>
+  </body>
+</html>

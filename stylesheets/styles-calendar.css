@@ -1,0 +1,173 @@
+ /*The entire calendar page*/
+ * {
+   font-family: Arial, Helvetica, sans-serif;
+   box-sizing: border-box;
+ }
+ :root {
+   /*Page Header and Form label*/
+   --bg-color-a: #285ea6;
+   /*Header of the calendar*/
+   --bg-color-b: #102541;
+   /*Buttons*/
+   --bg-color-c: #00209f;
+ }
+
+body {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-color: var(--bg-color-a);
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: var(--bg-color-b);
+    display: inline-block;
+}
+.logo{
+    float: left;
+}
+li{
+    float: left;
+    text-align: center;
+    padding: 10px 20px 30px 40px;
+}
+li a{
+    display: block;
+    color: rgb(231,246,250);
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: rgb(0, 128, 255);
+}
+a img:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=40);
+}
+/*Styling of the calendar page*/
+
+/* Period Selector*/
+#calendarHead {
+  display: flex; align-items: center;
+  padding: 15px;
+  background: var(--bg-color-a);
+}
+#calendarPeriod { flex-grow: 1; }
+#calendarHead input, #calendarHead select {
+  font-size: 24px;
+  border: 0; outline: none;
+  color: #fff; background: 0;
+  cursor: pointer;
+}
+#calendarHead option { color: #000; }
+#calendarYear {
+  width: 100px;
+  margin-left: 10px;
+}
+#calendarHead #calendarAdd {
+  padding: 5px 20px;
+  background: var(--bg-color-c);
+}
+
+/* Calendar Rows*/
+#calendarDays, .calendarRowHead, .calendarRowBack { display: flex; }
+#calendarDays, .calendarRow, .calendarRowHead, .calendarRowEvent {
+  position: relative;
+  width: 100%;
+}
+.calendarRow { min-height: 100px; }
+.calendarRowHead, .calendarRowEvent { z-index: 2; }
+.calendarRowBack {
+  position: absolute;
+  top: 0; left: 0; z-index: 1;
+  width: 100%; height: 100%;
+}
+.calendarRowEvent {
+  padding: 3px 10px;
+  margin-top: 5px;
+  font-size: 12px;
+  white-space: nowrap; text-overflow: ellipsis;
+  overflow: hidden; cursor: pointer;
+  border-radius: 10px;
+}
+
+/* Cells and Events*/
+.calendarCell { width: 14.2857%; }
+.w1 { width: 14.2857%; } .w2 { width: 28.5714%; } .w3 { width: 42.8571%; }
+.w4 { width: 57.1428%; } .w5 { width: 71.4285%; } .w6 { width: 85.7142%; }
+.w7 { width: 100%; }
+.o1 { left: 14.2857%; } .o2 { left: 28.5714%; } .o3 { left: 42.8571%; }
+.o4 { left: 57.1428%; } .o5 { left: 71.4285%; } .o6 { left: 85.7142%; }
+#calendarDays .calendarCell {
+  color: #fff; background: var(--bg-color-b);
+  font-weight: 700; text-align: center;
+  padding: 15px 0;
+}
+.calendarRowHead .calendarCell {
+  font-size: 14px;
+  font-weight: 700;
+  color: #f5f5f5;
+  padding: 5px;
+}
+.calendarRowBack .calendarCell { border: 1px solid #f5f5f5; }
+.calendarBlank { background: #f5f5f5; }
+.calendarToday { background: #a1cbedd4; }
+
+/* Event Form */
+#calendarForm {
+  position: absolute; top: 0; left: 0; z-index: 999;
+  width: 100vw; height: 100%; min-height: 100vh;
+  padding: 0; margin: 0; border: 0;
+  background: rgba(0,0,0,0.5);
+}
+#calendarForm:is([open]), #calendarForm form {
+  display: flex; flex-wrap: wrap;
+  align-items: center; justify-content: center;
+}
+#calendarForm form {
+  position: relative;
+  width: 450px; padding: 15px;
+  border-radius: 10px;
+  background: #fff;
+}
+#closeEvent {
+  position: absolute;
+  top: 0; right: 0;
+  padding: 10px;
+  color: #2f20b1;
+  font-size: 28px;
+  font-weight: 700;
+  cursor: pointer;
+}
+#calendarForm h2 { margin: 0 0 5px 0; }
+#calendarForm .event1 { width: 50%; }
+#calendarForm .event1 { width: 100%; }
+#calendarForm .event2, #calendarForm .event2 { padding: 8px; }
+#calendarForm label, #calendarForm input[type=datetime-local], #calendarForm input[type=color], #calendarForm input[type=text] {
+  display: block;
+  width: 100%;
+}
+#calendarForm label {
+  color: #a1a1a1;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+#calendarForm input[type=datetime-local], #calendarForm input[type=text] {
+  padding: 5px;
+  border: 1px solid #eee;
+  background: #f5f5f5;
+}
+#calendarForm input[type=color] { height: 30px; border: 0; }
+#calendarForm input[type=button], #calendarForm input[type=submit] {
+  border: 0; padding: 10px; margin: 10px 2px 0 0;
+  color: #fff; background: var(--bg-color-c);
+  cursor: pointer;
+}

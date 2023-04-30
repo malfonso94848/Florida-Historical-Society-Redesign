@@ -1,0 +1,106 @@
+  body{
+      background-color: #285EA6;
+      font-family: sans-serif;
+  }
+  nav {
+    width: 100%;
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #102541;
+    display: inline-block;
+  }
+
+  .logo{
+    float:left;
+  }
+  li {
+    float: left;
+    text-align: center;
+    padding: 10px 20px 30px 40px;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(231, 246, 250);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(0, 128, 255);
+  }
+  /*Welcome intro*/
+  .grid-item-welcome {
+    background-color: #7395BF;
+    text-align: center;
+    padding: 1px;
+    margin: 20px;
+  }
+
+  
+a img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=40);
+}
+
+  /*Grid container for the 4 grids*/
+  .grid-container-4 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: #285EA6;
+    padding: 10px;
+    grid-gap: 5px;
+  }
+  .grid-item-4 {
+    background-color: #7395BF;
+    text-align: center;
+    padding: 20px;
+
+  }
+  /*Grid container for the most popular in the shop, event reminders, etc.*/
+  .grid-container-3{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item-3 {
+    background-color: #7395BF;
+    color: white;
+    text-align: center;
+    padding: 1px;
+  }
+  /*Grid container for social media reviews*/
+  .grid-container-info{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    grid-gap: 10px;
+    /*justify-content: start;*/
+  }
+  .grid-containter-reviews{
+    background-color: #7395BF;
+    padding: 1px;
+
+  }
+  .grid-item-3-1{ 
+    background-color: #7395BF;
+    padding: 1px;
+    grid-gap: 10px;
+    text-align: center;  
+  }
+  footer{
+    width: 100%;
+    background: #7395BF;
+    text-align: center;
+ }
+ 
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
